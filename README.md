@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvatiwaree&theme=dracula&show_icons=true)
 <!--
 **apoorvatiwaree/apoorvatiwaree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
