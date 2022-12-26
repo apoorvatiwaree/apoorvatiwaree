@@ -6,7 +6,7 @@
 </p>
 
 <details>
-  <summary>☎️ you can reach me by:</summary>
+  <summary>☎️ contact me:</summary>
 <div>
   <samp>    
     <p align="center">
