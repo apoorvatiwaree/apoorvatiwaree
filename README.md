@@ -5,8 +5,16 @@
   pronouns: she/her
 </p>
 
+  <h4>🌈 Tech Stack</h4>
+  <ul>
+    <li>💻 C++, C, HTML, CSS, JavaScript</li>
+  <li> 📱 Java, Kotlin</li>
+  <li>📊 Python, R</li>
+ 
+  </ul>
+<hr>
 <details>
-  <summary>☎️ contact me:</summary>
+  <summary>☎️ Contact Me:</summary>
 <div>
   <samp>    
     <p align="center">
@@ -22,17 +30,9 @@
   </samp>
 </div>
 </details>
+<hr>
 <details>
-  <summary>🌈 tech stack</summary>
-  <ul>
-    <li>💻 C++, C, HTML, CSS, JavaScript</li>
-  <li> 📱 Java, Kotlin</li>
-  <li>📊 Python, R</li>
- 
-  </ul>
-  </details>
-<details>
-  <summary>✨ my stats</summary
+  <summary>✨ My Stats</summary
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvatiwaree&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,)](https://github.com/apoorvatiwaree/github-readme-stats)
 ![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvatiwaree&theme=dracula&show_icons=true&count_private=true&hide=issues)
