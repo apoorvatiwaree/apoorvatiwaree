@@ -23,7 +23,16 @@
 </div>
 </details>
 <details>
-  <summary>✨my stats</summary
+  <summary>🌈 tech stack</summary>
+  <ul>
+    <li>💻 C++, C, HTML, CSS, JavaScript</li>
+  <li> 📱 Java, Kotlin</li>
+  <li>📊 Python, R</li>
+ 
+  </ul>
+  </details>
+<details>
+  <summary>✨ my stats</summary
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvatiwaree&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,)](https://github.com/apoorvatiwaree/github-readme-stats)
 ![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvatiwaree&theme=dracula&show_icons=true&count_private=true&hide=issues)
