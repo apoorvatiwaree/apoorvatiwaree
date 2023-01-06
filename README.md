@@ -3,6 +3,7 @@
 <p>
   <br>
   Portfolio : https://apoorvatiwaree.github.io/react-portfolio/ 
+  <br>
   Pronouns: she/her
 </p>
 
