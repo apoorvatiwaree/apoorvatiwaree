@@ -10,9 +10,8 @@
   <h4>🌈 Tech Stack</h4>
   <ul>
     <li>💻 C++, C, HTML, CSS, JavaScript (React, Three.js)</li>
-  <li> 📱 Java, Kotlin</li>
-  <li>📊 Python, R</li>
- 
+    <li> 📱 Swift, Java, Kotlin</li>
+    <li>📊 Python, R</li>
   </ul>
 <hr>
 <details>
