@@ -1,4 +1,4 @@
-<h1 align = "center"> :cherry_blossom: Hello, I'm Apoorva :cherry_blossom:</h1>
+<h1 align = "center"> &#127800 Hello, I'm Apoorva &#127800</h1>
 
 <p>
   <br>
